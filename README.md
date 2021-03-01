@@ -15,7 +15,7 @@
   * [Pillow -> ImageTk, Image, ImageDraw](https://pypi.org/project/Pillow/)
   * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-<h2>Inspired By</h2>
+<h2>contributors</h2>
 <h6>This project was inspired by:</h6>
 
 [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
