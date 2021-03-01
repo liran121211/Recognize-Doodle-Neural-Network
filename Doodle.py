@@ -3,7 +3,6 @@ from PIL import ImageTk, Image, ImageDraw
 import PIL
 from tkinter import *
 
-
 class Doodle():
     def __init__(self, name, classification, data): #Constructor
         self.classification = classification
