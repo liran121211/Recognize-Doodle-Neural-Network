@@ -5,6 +5,7 @@
 
 
 * Requirements:
+  * [Images Files](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap?pageState=(%22StorageObjectListTable%22:(%22f%22:%22%255B%255D%22))&prefix=&forceOnObjectsSortingFiltering=false)
   * [Matplotlib, matplotlib.animation](https://pypi.org/project/matplotlib/)
   * [NumPy](https://pypi.org/project/numpy/)
   * [Math -> exp](https://docs.python.org/3/library/math.html)
