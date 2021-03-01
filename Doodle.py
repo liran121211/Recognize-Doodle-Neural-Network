@@ -127,7 +127,7 @@ def setup(images_to_learn = 1):
     global Cloud_Doodle,Cats_Doodle,EyeGlasses_Doodle
 
     # Load Data
-    CATS_DATA = np.load('Data/Clock_Doodle.npy', encoding='latin1', allow_pickle=True)[:images_to_learn]
+    CATS_DATA = np.load('Data/Doodle_Cats.npy', encoding='latin1', allow_pickle=True)[:images_to_learn]
     CLOUD_DATA = np.load('Data/Doodle_Cloud.npy', encoding='latin1', allow_pickle=True)[:images_to_learn]
     EYEGLASSES_DATA = np.load('Data/Doodle_EyeGlasses.npy', encoding='latin1', allow_pickle=True)[:images_to_learn]
 
