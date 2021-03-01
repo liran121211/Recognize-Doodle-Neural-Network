@@ -1,5 +1,5 @@
 
-<h1>Recognize Doole by NeuralNetwork</h1>
+<h1>Recognize Doodle by NeuralNetwork</h1>
 <h2>Draw something on the canvas and the algorithem will try to guess it</h2>
 <h6>Currently works only for: Cats, Cloud, Eyeglasses categories</h6>
 
